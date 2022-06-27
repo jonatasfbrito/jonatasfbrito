@@ -40,5 +40,4 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-kotzera.net@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kotzera.net@gmail.com)](mailto:kotzera.net@gmail.com)
 [![GitHub Jonatas]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/jonatasfbrito)
-[!Telegram]()
-[!Discord]()
+[!Telegram](https://t.me/kotzera)
