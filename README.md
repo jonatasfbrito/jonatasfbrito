@@ -1,43 +1,31 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+<p align="left"> 
+  Meu nome é Jonatas, tenho 15 anos.<strong>Sua área</strong>.<br>
+  Atualmente estudo, e procuro alguns freelances.
+</p>
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+<p align="left">
+  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+</p>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🌱 &nbsp; Aprendendo mais sobre JavaScript e NodeJS.
+<p align="left">
+  💼 Ferramentas: <strong>Sublime Text 4, VSCode.</strong>
+</p>
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
 
-**Aplicações e Dados**
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=kotzea.net@gmail.com" /></a>
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Python]()
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-**Utilidades**
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-**DevOps**
-
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-**Ferramentas de Desenvolvimento**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-<br/>
-
-<a href="https://github.com/VanessaSwerts">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
-
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-[![Gmail Badge](https://img.shields.io/badge/-kotzera.net@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kotzera.net@gmail.com)](mailto:kotzera.net@gmail.com)
-[![GitHub Jonatas]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/jonatasfbrito)
-[!Telegram](https://t.me/kotzera)
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/kotzera"/></a>
+</p>  
