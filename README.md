@@ -20,8 +20,7 @@
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=kotzea.net@gmail.com" /></a>
 
-<a href="#" alt="Telegram">
-  <img src="https://simpleicons.org/icons/telegram.svg"/></a>
+![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)
 
   <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link="/></a>
