@@ -5,12 +5,20 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Python, C#</strong>
+  🦄 Linguagens:
+  - Python
+  - C#
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Sublime Text 4, Postman, Git e Github.</strong>
+  💼 Ferramentas: 
+  - Sublime Text 4
+  - Postman
+  - Git
+  - Github
 </p>
+
+
 
 <p align="left">
   💌 Caso queira entrar em contato comigo: ⤵️
