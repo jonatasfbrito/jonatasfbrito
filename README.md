@@ -6,17 +6,18 @@
 
 <p align="left">
   🦄 Linguagens:
-  - Python
-  - C#
 </p>
+- Python
+- C#
+
 
 <p align="left">
   💼 Ferramentas: 
+</p>
   - Sublime Text 4
   - Postman
   - Git
   - Github
-</p>
 
 
 
