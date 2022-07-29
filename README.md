@@ -18,4 +18,4 @@
 
 
 
-![Telegram](https://t.me/kotzera)
+- Telegram (https://t.me/kotzera)
